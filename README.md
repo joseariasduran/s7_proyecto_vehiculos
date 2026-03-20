@@ -30,3 +30,7 @@ Si deseas correr esta aplicación en tu propia máquina, sigue estos pasos:
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/joseariasduran/s7_proyecto_vehiculos.git](https://github.com/joseariasduran/s7_proyecto_vehiculos.git)
+
+Autor: José Arias Durán
+
+Contacto: [LinkedIn](https://www.linkedin.com/in/joseariasduran/) | [GitHub](https://github.com/joseariasduran)
